@@ -1,4 +1,4 @@
-# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-17-Mayis-2022– Sık Sorulan Sorular
+# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Şubat-2023– Sık Sorulan Sorular
 
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Android Programlama Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
@@ -16,8 +16,8 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Dersleri izleyen 2 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
 
-### 160 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __160__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+### 180 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __180__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. 
