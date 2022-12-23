@@ -4,7 +4,7 @@
 + Kursun __27 Şubat 2023 Pazartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __180__ saattir. Dersler __Pazartesi - Çarşamba__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __180__ saattir. Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 + Kursun toplam ücreti KDV dahil __9.360__ TL‘dir. Öğrenci olanlara (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __8.400__ TL’dir. Kurs ücreti peşin ya da 2 taksit olarak ödenebilir.
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/kurs_tanitimi.md)
