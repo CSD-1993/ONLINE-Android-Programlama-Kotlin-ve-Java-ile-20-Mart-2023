@@ -1,4 +1,4 @@
-# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-17-Mayis-2022
+# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Şubat-2023
 
 +  Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
  
@@ -28,14 +28,14 @@
 Bu programa katılabilmek için daha _Java_ veya _C#_ dillerinden birini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya _C# ile Nesne Yönelimli Programlama_ kurslarından birine katılmış olmak gerekmektedir.
 
 ## Eğitim Süresi
-Programın toplam süresi __160__ saattir. 
+Programın toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta içi __Salı - Perşembe__ günleri saat __19:30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
+Dersler hafta içi __Pazartesi - Çarşamba__ günleri saat __19:30 – 22-30__ saatleri arasında __3__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-10-Mayis-2022/blob/main/kurs_programi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/kurs_programi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -80,9 +80,9 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Kotlin ve Java ile Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Kursun toplam ücreti __5.100 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __4.600__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
+Kursun toplam ücreti __9.360 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __8.400__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZ0vcu2qrjMuGtGTaSoJCnfD2Tg1pT62zFyx). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZAuf-6pqz0qGdxMgP4ghSOjlDNj6GyMZDqr). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-10-Mayis-2022/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
