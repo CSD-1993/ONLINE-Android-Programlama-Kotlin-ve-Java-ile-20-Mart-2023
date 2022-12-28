@@ -80,7 +80,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Kotlin ve Java ile Android Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Kursun toplam ücreti __9.360 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __8.400__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
+Kursun toplam ücreti __8.400 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __7.600__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
 ## Eğitim Programına Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZAuf-6pqz0qGdxMgP4ghSOjlDNj6GyMZDqr). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
