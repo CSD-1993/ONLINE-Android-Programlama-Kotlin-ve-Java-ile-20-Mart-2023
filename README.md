@@ -5,7 +5,7 @@
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
-+ Kursun toplam ücreti KDV dahil __8.400__ TL‘dir. Öğrenci olanlara (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __7.600__ TL’dir. Kurs ücreti peşin ya da 2 taksit olarak ödenebilir.
++ Kursumuzun toplam ücreti KDV dahil __8.400__ TL’dir(Peşin ödemede __7.600__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __7.600__ TL’dir (peşin ödemede __6.900__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/kurs_programi.md)
