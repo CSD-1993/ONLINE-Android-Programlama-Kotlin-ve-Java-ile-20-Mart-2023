@@ -1,4 +1,4 @@
-# ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023
+# Online Android Programlama Kursu - 27 Şubat 2023
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
 + Kursun __27 Şubat 2023 Pazartesi__ günü başlayacaktır.
@@ -10,4 +10,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/kurs_programi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/ONLINE-Android-Programlama-Kotlin-ve-Java-ile-27-Subat-2023/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZAuf-6pqz0qGdxMgP4ghSOjlDNj6GyMZDqr)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZAuf-6pqz0qGdxMgP4ghSOjlDNj6GyMZDqr)
