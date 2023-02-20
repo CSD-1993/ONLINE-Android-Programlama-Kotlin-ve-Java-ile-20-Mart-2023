@@ -1,7 +1,7 @@
-# Online Android Programlama (Kotlin ve Java ile) Kursu - 27 Şubat 2023
+# Online Android Programlama (Kotlin ve Java ile) Kursu - 20 Mart 2023
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından __Sistem Bilgisayar__ işbirliği ile düzenlenmektedir.
-+ Kursun __27 Şubat 2023 Pazartesi__ günü başlayacaktır.
++ Kursun __20 Mart 2023 Pazartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
